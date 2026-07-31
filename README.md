@@ -1,5 +1,7 @@
 # Hi, I'm Hayder 👋
 
+![LinkedIn]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk](https://img.shields.io/badge/github-repo-blue?logo=github))
+
 ## About Me
 - Computer Science Student
 - Spring Boot Developer
