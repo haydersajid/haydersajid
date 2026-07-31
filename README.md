@@ -1,15 +1,18 @@
-# 👋 Hi, I'm Hayder
+# Hi, I'm Hayder 👋
 
-## 🚀 About Me
+## About Me
 - Computer Science Student
-- Backend Developer using Spring Boot
+- Spring Boot Developer
 - Android Developer with Jetpack Compose
+- Interested in System Design
 
-## 🌐 Socials
-[LinkedIn]([https://linkedin.com/in/hayderdajid](https://www.linkedin.com/in/hyder-sajid-5842993a1/))
-[Email](hayder.sajid.sc@gmail.com)
+## Tech Stack
 
-## 💻 Tech Stack
-Java • Kotlin • Spring Boot • PostgreSQL • Android • Docker
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-## 📊 GitHub Stats
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=haydersajid&show_icons=true&theme=dark)
