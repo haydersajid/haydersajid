@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-<a href="https://linkedin.com/in/hayder-sajid-5842993a1" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_rtl_r7.png" alt="hayder-sajid-5842993a1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hayder-sajid-5842993a1" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_rtl_r7.png" alt="hayder.sajid.sc@gmail.com" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
