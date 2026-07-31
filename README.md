@@ -1,6 +1,6 @@
 # Hi, I'm Hayder 👋
 
-[LinkedIn]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk](https://img.shields.io/badge/github-repo-blue?logo=github))
+[![LinkedIn](https://img.shields.io/badge/github-repo-blue?logo=linkedin)](https://www.linkedin.com/in/hyder-sajid-5842993a1/)
 
 ## About Me
 - Computer Science Student
